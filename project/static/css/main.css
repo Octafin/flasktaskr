@@ -3,6 +3,18 @@ body{
   font-family: 'Rajdhani', sans-serif;
     }
 
+h1, h2 {
+  color: #337ab7;
+}
+
+a {
+  color: #ED5565;
+}
+
+h3, p, label, th, td {
+  color: #1AB394;
+}
+
 /* Start of navbar */
 
 .navbar {
